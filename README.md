@@ -1,4 +1,4 @@
 # snowflake
 
-![Snowflake](images/snowflake.jpg)
+![Snowflake](snowflake.jpg)
 credit: snowflake
